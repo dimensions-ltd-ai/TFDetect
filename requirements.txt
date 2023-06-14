@@ -1,0 +1,9 @@
+Keras-Preprocessing
+matplotlib
+numpy
+opencv-python
+pandas
+parso==0.8.3
+protobuf==3.19.0
+scipy
+tensorflow==2.3.0
